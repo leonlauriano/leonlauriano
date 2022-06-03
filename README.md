@@ -1,4 +1,4 @@
-### Salve, galera!! Me chamo Emmanuel Leon, sou Engenheiro Agrícola e Ambiental em transição de carreira para a área de tecnologia. Atualmente entusiasta a desenvolvedor front-end, estudando HTML | CSS | JavaScript.
+### Salve, galera!! 🤘🏼 Me chamo Emmanuel Leon, sou Engenheiro Agrícola e Ambiental em transição de carreira para a área de tecnologia. Atualmente entusiasta a desenvolvedor front-end, estudando HTML | CSS | JavaScript.
 
 <div align="center">
   <a href="https://github.com/leonlauriano">
